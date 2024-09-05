@@ -91,7 +91,7 @@
 
 /* Estilo alterado do container */
 .container-menu.scrolled {
-    background-color:#f9f9f9; /* Cor ao rolar */
+    background-color:#f9f9f9;
 }
 
 
@@ -101,7 +101,6 @@
     margin: 0;
     display: flex;
 }
-
 
 .nav-menu li {
     margin: 0 20px;
